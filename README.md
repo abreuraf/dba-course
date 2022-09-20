@@ -3,7 +3,7 @@ Repositório para registrar meu aprendizado no Curso de Administrador de Banco d
 
 ## Ferramentas
 SQL Server 2019 - Versão para desenvolvedor
-[Download](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+[Download](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 SQL Serve Management Studio - v18
 [Download](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 BrModelo
